@@ -22,7 +22,7 @@ export const Container = styled.div`
         display: block;
         margin-top: 1rem;
         font-size: 2rem;
-        font-weight: 600;
+        font-weight: 500;
         line-height: 3rem;
     }
     &.total-Background{
