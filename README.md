@@ -1,4 +1,6 @@
-# 🚀 dtmoney
+<h1 align="center">
+🚀 dtmoney
+</h1>
 
 <p>
    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -8,34 +10,22 @@
 
 ## 📫 Visualização do projeto
 
-<img size="100%" src="https://i.ibb.co/80dLQy6/Captura-de-tela-2022-03-23-144255.png" alt="Captura-de-tela-2022-03-16-083320" />
+<img size='100%' src=".github/dtmoney.png" alt="Captura-de-tela-2022-03-16-083320" border="0">
 
-## 🤝 Clonar o projeto
+Carrinho de compras de uma loja de Tênis
 
-No GitHub.com, navegue até a página principal do repositório.
-Acima da lista de arquivos, clique em baixar o código como na imagem abaixo código. <br />
-<img width="30%%" src="https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png" /> 
+## 💻 Projeto
 
-Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique em "copiar". <br />
-<img width="30%%" src="https://docs.github.com/assets/cb-36330/images/help/repository/https-url-clone.png" /> 
+O DtMoney é um projeto para controle de gastos
 
-Abra Git Bash.
+## 🤝 Como executar
 
-Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie a fake api com `yarn server`
+- Inicie o servidor com `yarn dev`
 
-Digite ```git clone``` (clonar git) e cole a URL que você copiou anteriormente.
-
-```git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY```
-
-Pressione Enter para criar seu clone local.
- ```
- git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
- Cloning into `Spoon-Knife`...
- remote: Contando objetos: 10, concluído.
- remote: Compactando objetos: 100% (8/8), concluído.
- remove: Total 10 (delta 1), reused 10 (delta 1)
- Unpacking objects: 100% (10/10), done.
- ```
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
 ## 📫 Contribuindo para o Portfólio
 
@@ -48,3 +38,11 @@ Para contribuir com o Portfólio, siga estas etapas:
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## 📜 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Feito com :purple_heart: by [Claudivan Santos](https://github.com/ClaudivanSantos) 
