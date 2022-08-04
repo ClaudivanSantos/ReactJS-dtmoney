@@ -16,7 +16,7 @@ Carrinho de compras de uma loja de Tênis
 
 ## 💻 Projeto
 
-O DtMoney é um projeto para controle de gastos
+O DtMoney é um projeto para controle financeiro
 
 ## 🤝 Como executar
 
